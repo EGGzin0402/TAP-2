@@ -1,0 +1,14 @@
+{
+    "name": "tap/tap-02",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EGGzin"
+        }
+    ],
+    "require": {}
+}
